@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://codewithsakshi.github.io/csb-kli4bv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://codewithsakshi.github.io/csb-kli4bv/static/js/main.534b82cb.chunk.js",
+    "main.js.map": "https://codewithsakshi.github.io/csb-kli4bv/static/js/main.534b82cb.chunk.js.map",
+    "runtime-main.js": "https://codewithsakshi.github.io/csb-kli4bv/static/js/runtime-main.c62a33fd.js",
+    "runtime-main.js.map": "https://codewithsakshi.github.io/csb-kli4bv/static/js/runtime-main.c62a33fd.js.map",
+    "static/js/2.51756f6a.chunk.js": "https://codewithsakshi.github.io/csb-kli4bv/static/js/2.51756f6a.chunk.js",
+    "static/js/2.51756f6a.chunk.js.map": "https://codewithsakshi.github.io/csb-kli4bv/static/js/2.51756f6a.chunk.js.map",
+    "index.html": "https://codewithsakshi.github.io/csb-kli4bv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://codewithsakshi.github.io/csb-kli4bv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.51756f6a.chunk.js.LICENSE.txt": "https://codewithsakshi.github.io/csb-kli4bv/static/js/2.51756f6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c62a33fd.js",
+    "static/js/2.51756f6a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.534b82cb.chunk.js"
+  ]
+}
